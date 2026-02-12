@@ -53,9 +53,13 @@ The final outcome is a fully functional interactive dashboard showcasing global 
 ## 🏗️ Project Architecture
 
 1️⃣ Data Collection & Preprocessing
+
 2️⃣ Exploratory Data Analysis & Feature Engineering
+
 3️⃣ Modeling & Advanced Analytics
+
 4️⃣ Interactive Dashboard Development
+
 5️⃣ Evaluation & Deployment
 
 ---
